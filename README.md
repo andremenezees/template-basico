@@ -9,9 +9,13 @@ Instalar a pipenv na pasta do projeto através do comando:
 
 pip install pipenv
 
-Instalar dependencias do piplock:
+Atualizar dependencias do pipfile.lock:
 
 pipenv update
+
+Instalar todas as dependencias atualizadas do pipfile.lock:
+
+pipenv install --dev
 
 [![Build Status](https://travis-ci.com/andremenezees/template-basico.svg?branch=master)](https://travis-ci.com/andremenezees/template-basico)
 [![codecov](https://codecov.io/gh/andremenezees/curso-django/branch/master/graph/badge.svg)](https://codecov.io/gh/andremenezees/curso-django)
