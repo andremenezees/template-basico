@@ -1,9 +1,19 @@
 # Curso-django
 Código desenvolvido no módulo de Django do [Site Python Pro](www.python.pro.br)
 
-Aplicação disponível em http://andredjango.herokuapp.com/
+Template básico de web dev.
 
-[![Build Status](https://travis-ci.com/andremenezees/curso-django.svg?branch=master)](https://travis-ci.com/andremenezees/curso-django)
+Para configurar:
+
+Instalar a pipenv na pasta do projeto através do comando:
+
+pip install pipenv
+
+Instalar dependencias do piplock:
+
+pipenv update
+
+[![Build Status](https://travis-ci.com/andremenezees/template-basico.svg?branch=master)](https://travis-ci.com/andremenezees/template-basico)
 [![codecov](https://codecov.io/gh/andremenezees/curso-django/branch/master/graph/badge.svg)](https://codecov.io/gh/andremenezees/curso-django)
 [![Updates](https://pyup.io/repos/github/andremenezees/curso-django/shield.svg)](https://pyup.io/repos/github/andremenezees/curso-django/)
 [![Python 3](https://pyup.io/repos/github/andremenezees/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/andremenezees/curso-django/)
