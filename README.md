@@ -7,7 +7,7 @@ Para configurar:
 
 Instalar a pipenv na pasta do projeto através do comando:
 
-pip install pipenv
+pipenv install
 
 Atualizar dependencias do pipfile.lock:
 
